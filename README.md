@@ -1,15 +1,16 @@
-# Bataille_Navale
-Travail réalisé en langage C, durant la première année et premier semestre de BUT Informatique, en Initiation au développement.
+# Battleship
 
-### Repertoire "Instructions" : Enonce et fichiers fourni par le professeur.
-BatailleNavale.o : Fichier d'exemple du travail voulu.
-biblioNavale.o & biblioNavale.c : Bibliotheque necessaire a la realisation de la premiere partie.
+Work done in the C language during the first year and first semester of a Bachelor's degree in Computer Science, in Introduction to Development.
+
+### "Instructions" Directory: Statement and files provided by the professor.
+BatailleNavale.o: Example file of the desired work.
+biblioNavale.o & biblioNavale.c: Library required for the completion of the first part.
 Sujet.pdf
 
-### Repertoire "Rendu" : Fichiers rendus, dont une premiere partie puis une seconde partie.
+### "Rendu" Directory: Submitted files, including a first part and a second part.
 
-bataillenavale.c : Travail rendu pour la premiere partie. 
-Note obtenue : 19/20
+bataillenavale.c: Work submitted for the first part.
+Grade received: 19/20
 
-biblionavale2.c : Travail rendu pour la deuxieme partie.
-Note obtenue : 18/20
+biblionavale2.c: Work submitted for the second part.
+Grade received: 18/20
