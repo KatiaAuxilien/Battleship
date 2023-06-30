@@ -7,7 +7,7 @@ BatailleNavale.o: Example file of the desired work.
 biblioNavale.o & biblioNavale.c: Library required for the completion of the first part.
 Sujet.pdf
 
-### "Rendu" Directory: Submitted files, including a first part and a second part.
+### "Rendered" Directory: Submitted files, including a first part and a second part.
 
 bataillenavale.c: Work submitted for the first part.
 Grade received: 19/20
