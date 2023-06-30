@@ -4,7 +4,9 @@ Work done in the C language during the first year and first semester of a Bachel
 
 ### "Instructions" Directory: Statement and files provided by the professor.
 BatailleNavale.o: Example file of the desired work.
+
 biblioNavale.o & biblioNavale.c: Library required for the completion of the first part.
+
 Sujet.pdf : Assignment instructions.
 
 ### "Rendered" Directory: Submitted files, including a first part and a second part.
